@@ -20,7 +20,7 @@ function NavBar() {
               themeCtx.isDarkMode ? "text-white" : ""
             }`}
           >
-            <Link href="/">Asna</Link>
+            <Link href="/">Kitty</Link>
             <span className="text-[#E63946]">.</span>
           </div>
           <div className={`flex content-center ${styles.navFont}`}>
