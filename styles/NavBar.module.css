@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;300;500;700&display=swap');
+
+.navFont{
+    font-family: 'Raleway', sans-serif;
+}
+
+.latoFont{
+    font-family: 'Lato', sans-serif;
+}
+
+.footerBackground{
+    background-image: url('/bg-pattern-footer.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.mainBackground{
+    background-image: url('/main-background.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.centerit{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction: column;
+}
